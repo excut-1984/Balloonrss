@@ -207,4 +207,4 @@ BalloonRSS is offered as a complete free version with all features and updates i
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-17 22:03:10 UTC
+**Last updated:** 2026-09-18 01:12:20 UTC
